@@ -94,8 +94,12 @@ processed_ids.db
 .idea/
 config.yaml
 
+chromedriver
+
 # Vim
 .*.swp
 
 # Vscode
 .vscode
+
+.DS_Store
